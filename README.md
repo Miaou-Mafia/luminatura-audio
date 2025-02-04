@@ -9,6 +9,10 @@
 ## Liste de VST
 * Reverbate
 * Delay
+* Pitch
+* EQ
+* Playback rate
+* Inverse
 
 ## Inventaire sonore
 1 ambiance de base
