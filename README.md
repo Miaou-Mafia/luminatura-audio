@@ -1,10 +1,12 @@
 # luminatura-audio
-Des sons inspirés de la nature, tels que le murmure d'un ruisseau ou le chant des oiseaux, sont émis en réponse aux actions des visiteurs. Ces sons sont conçus pour accompagner et enrichir l'expérience immersive, créant une atmosphère de calme et de connexion avec l'environnement.
 
-## Logiciels
+## Liste de logiciels et de VST utilisés par ce projet
 * Reaper
 * Plugdata
-
+* Puredata
+* Surge xt
+* Tx16Wx
+ 
 ## Inventaire sonore
 1 ambiance de base
 
