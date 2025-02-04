@@ -3,9 +3,3 @@ Des sons inspirés de la nature, tels que le murmure d'un ruisseau ou le chant d
 
 * 1 ambiance de base
 * 10 objets sonores
-
-
-https://github.com/user-attachments/assets/15c3c760-332d-4c26-b2a7-d529882a27f9
-
-
-
