@@ -3,6 +3,7 @@
 ## Liste de logiciels
 * Reaper
 * Puredata
+* Plugdata
 * Surge xt
 * Tx16Wx
 
