@@ -1,12 +1,15 @@
 # luminatura-audio
 
-## Liste de logiciels et de VST utilisés par ce projet
+## Liste de logiciels
 * Reaper
-* Plugdata
 * Puredata
 * Surge xt
 * Tx16Wx
- 
+
+## Liste de VST
+* Reverbate
+* Delay
+
 ## Inventaire sonore
 1 ambiance de base
 
