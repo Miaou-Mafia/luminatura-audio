@@ -1,6 +1,6 @@
 #N canvas 0 50 450 300 12;
 #X obj 49 29 inlet;
-#X obj 62 451 outlet;
+#X obj 62 492 outlet;
 #X obj 49 146 sel 1 0;
 #X obj 49 112 change;
 #X obj 62 284 realtime;
@@ -8,12 +8,16 @@
 #X msg 86 221 1;
 #X obj 83 253 metro 10;
 #X msg 123 221 0;
-#X obj 62 377 tgl 25 0 empty empty empty 17 7 0 10 #e4e4e4 #4d4d4d #373737 0 1;
+#X obj 62 418 tgl 25 0 empty empty empty 17 7 0 10 #e4e4e4 #4d4d4d #373737 0 1;
 #X obj 123 184 t b b;
 #X msg 138 284 0;
 #X obj 49 184 t b b;
-#X obj 62 334 > \$1;
-#X obj 62 415 change;
+#X obj 62 375 > \$1;
+#X obj 62 456 change;
+#X obj 138 375 < \$1;
+#X obj 138 416 tgl 25 0 empty empty empty 17 7 0 10 #e4e4e4 #4d4d4d #373737 0 1;
+#X obj 138 456 change;
+#X obj 138 492 outlet;
 #X connect 0 0 5 0;
 #X connect 2 0 12 0;
 #X connect 2 1 10 0;
@@ -31,3 +35,6 @@
 #X connect 12 1 4 0;
 #X connect 13 0 9 0;
 #X connect 14 0 1 0;
+#X connect 15 0 16 0;
+#X connect 16 0 17 0;
+#X connect 17 0 18 0;
