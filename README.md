@@ -1,4 +1,4 @@
-# luminatura-audio
+# Luminatura audio
 
 ## Liste de logiciels
 * Reaper
@@ -24,7 +24,10 @@
 * Magie
 * Tambour
 * Cloche
-* Croassement de grenouille
+* Coassement de grenouille
 * Crickets
 * Ruisseau
 * Magie 02
+
+# Effets sonores pour la plaque 1
+* Magie, Ruisseau et un son aléatoire (cloche et coassement de grenouille)
