@@ -29,5 +29,8 @@
 * Ruisseau
 * Magie 02
 
-# Effets sonores pour la plaque 1
-* Magie, Ruisseau et un son aléatoire (cloche et coassement de grenouille)
+## Effets sonores pour la plaque 1
+* Magie, ruisseau et un son aléatoire (cloche et coassement de grenouille)
+
+## Effets sonores pour la plaque 2
+* Tambour, méditation et un son aléatoire (cloche et coassement de grenouille)
