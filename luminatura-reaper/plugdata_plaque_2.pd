@@ -43,7 +43,7 @@
 #X text 399 413 Tambour;
 #X msg 384 441 60 \$1 1;
 #X msg 180 507 62 \$1 1;
-#X obj 384 388 * 20;
+#X obj 384 388 * 40;
 #X connect 0 0 1 0;
 #X connect 0 1 1 1;
 #X connect 0 2 1 2;
