@@ -29,11 +29,41 @@
 * Ruisseau
 * Magie 02
 
-## Effets sonores pour la plaque 1
-* Magie, ruisseau et un son aléatoire (cloche et coassement de grenouille)
+### Effets sonores de la plaque 1
 
-## Effets sonores pour la plaque 2
-* Tambour, méditation et un son aléatoire (cloche et coassement de grenouille)
+| Sons     | Note midi |
+| -------- | --------- |
+| Magie | 60  |
+| Ruisseau | 62  |
+| Grenouille-01 | 64  |
+| Cloche | 65   |
+| Hibou | 67  |
 
-## Effets sonores pour la plaque 3
-* Magie 02, oiseaux et un son aléatoire (cloche et coassement de grenouille)
+### Effets sonores de la plaque 1
+
+| Sons     | Note midi |
+| -------- | --------- |
+| Tambour | 60  |
+| Méditation | 62  |
+| Grenouille-01 | 64  |
+| Feuilles | 65   |
+| Vent | 67  |
+
+### Effets sonores de la plaque 3
+
+| Sons     | Note midi |
+| -------- | --------- |
+| Magie-02 | 60  |
+| Oiseaux | 62  |
+| Grenouille-02 | 64  |
+| Libellule | 65   |
+| Grenouille-01 | 67  |
+
+### Effets sonores de gouttes d'eau pour les 3 plaques
+
+| Sons     | Note midi |
+| -------- | --------- |
+| Goutte-03 | 72  |
+| Goutte-04 | 74  |
+| Goutte-05 | 76  |
+| Goutte-06 | 77   |
