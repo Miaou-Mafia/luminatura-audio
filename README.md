@@ -18,31 +18,14 @@
 * Inverse
 
 ## Inventaire sonore
-Effets sonores pour la plaque 1
+
+### Effets sonores de la plaque 1
 * Magie
 * Ruisseau
 * Sons aléatoire
   * Grenouille-01
   * Cloche
   * Hibou
-
-Effets sonores pour la plaque 2
-* Tambour
-* Méditation
-* Sons aléatoire
-  * Vent
-  * Feuilles
-  * Grenouille-01
-
-Effets sonores pour la plaque 3
-* Magie 02
-* Oiseaux
-* Sons aléatoire
-    * Grenouille-01
-    * Libellule
-    * Grenouille-02
-
-### Effets sonores de la plaque 1
 
 | Sons     | Note midi |
 | -------- | --------- |
@@ -52,7 +35,14 @@ Effets sonores pour la plaque 3
 | Cloche | 65   |
 | Hibou | 67  |
 
-### Effets sonores de la plaque 1
+ ### Effets sonores de la plaque 2
+ 
+* Tambour
+* Méditation
+* Sons aléatoire
+  * Vent
+  * Feuilles
+  * Grenouille-01
 
 | Sons     | Note midi |
 | -------- | --------- |
@@ -62,7 +52,15 @@ Effets sonores pour la plaque 3
 | Feuilles | 65   |
 | Vent | 67  |
 
+
 ### Effets sonores de la plaque 3
+
+* Magie 02
+* Oiseaux
+* Sons aléatoire
+    * Grenouille-01
+    * Libellule
+    * Grenouille-02
 
 | Sons     | Note midi |
 | -------- | --------- |
