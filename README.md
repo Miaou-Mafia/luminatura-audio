@@ -102,3 +102,6 @@ flowchart TD
         F[Carte de son Behringer] --> W[Ordinateur 192.168.1.150]
     end
 ```
+
+### Reaper et Pure Data
+Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque. Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu. Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
