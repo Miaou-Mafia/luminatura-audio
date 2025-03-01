@@ -78,3 +78,27 @@
 | Goutte-04 | 74  |
 | Goutte-05 | 76  |
 | Goutte-06 | 77   |
+
+### Connection des haut-parleurs pour les 3 plaques
+
+| Haut-parleurs     | Carte de son (sortie) |
+| ----------------- | --------------------- |
+| Genelec plaque 01 | 05                    |
+| Genelec plaque 02 | 06                    |
+| Genelec plaque 03 | 03                    |
+
+```mermaid
+flowchart TD
+    subgraph Câblage pour l'audio
+        N[Alimentation] --> O
+        O[ Genelec plaque 01 ] -->| Cable XLR | P[port 168] -->| Cable XLR | H[ port 145]
+        N --> R[Genelec plaque 03 ]
+        R -->| Cable XLR | S[port 166] -->| cable XLR | I[ port 146]
+        N --> T
+        T[Genelec plaque 02 ] -->| Cable XLR | U[ port 165] -->| Cable XLR | G[ port 147]
+        G -->| Cable XLR | F
+        I -->| Cable XLR | F
+        H -->| Cable XLR | F
+        F[Carte de son Behringer] --> W[Ordinateur 192.168.1.150]
+    end
+```
