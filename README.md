@@ -1,6 +1,7 @@
 # Luminatura audio
 
 ## Liste de logiciels
+
 * Reaper
 * Puredata
 * Plugdata
@@ -8,6 +9,7 @@
 * Tx16Wx
 
 ## Liste de VST
+
 * Reverbate
 * Delay
 * Pitch
@@ -16,18 +18,29 @@
 * Inverse
 
 ## Inventaire sonore
-1 ambiance de base
-
-10 objets sonores liés à l'interactivité
-* Oiseaux
-* Cloches et tambours
+Effets sonores pour la plaque 1
 * Magie
-* Tambour
-* Cloche
-* Coassement de grenouille
-* Crickets
 * Ruisseau
+* Sons aléatoire
+  * Grenouille-01
+  * Cloche
+  * Hibou
+
+Effets sonores pour la plaque 2
+* Tambour
+* Méditation
+* Sons aléatoire
+  * Vent
+  * Feuilles
+  * Grenouille-01
+
+Effets sonores pour la plaque 3
 * Magie 02
+* Oiseaux
+* Sons aléatoire
+    * Grenouille-01
+    * Libellule
+    * Grenouille-02
 
 ### Effets sonores de la plaque 1
 
