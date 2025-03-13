@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.33/win64" 1741825883
+<REAPER_PROJECT 0.1 "7.33/win64" 1741825844
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
@@ -29,7 +29,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\user\Documents\GitHub\luminatura-audio\exportations\20_ecureuil_03.wav"
+  RENDER_FILE "C:\Users\user\Documents\GitHub\luminatura-audio\exportations\20_ecureuil_02.wav"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
