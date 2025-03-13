@@ -48,6 +48,16 @@
 #X msg 849 619 72 20 1;
 #X msg 916 619 76 60 1;
 #X msg 985 619 77 30 1;
+#X text 1056 436 Grenouille;
+#X obj 880 352 random 3;
+#X obj 880 395 sel 0 1 2;
+#X floatatom 973 395 5 0 0 0 - - - 0;
+#X msg 1042 459 64 80 1;
+#X text 981 436 Cloche;
+#X text 894 436 Hibou;
+#X msg 880 459 67 20 1;
+#X msg 966 459 65 60 1;
+#X obj 880 218 select 1;
 #X connect 0 0 1 0;
 #X connect 0 1 1 1;
 #X connect 0 2 1 2;
@@ -56,6 +66,7 @@
 #X connect 7 0 4 0 32.................J....nA...fB....Z....LA....;
 #X connect 7 0 14 0;
 #X connect 7 0 29 0 48.................J....fI...fB....XB...vC...vDB...7....Lg...fQ....;
+#X connect 7 0 58 0;
 #X connect 7 1 8 0 32.................K....TB...vB....k....TA....;
 #X connect 10 0 11 0 32.................J....3I...fB....dB...3A....;
 #X connect 10 0 12 0;
@@ -99,3 +110,9 @@
 #X connect 46 0 1 0;
 #X connect 47 0 1 0;
 #X connect 48 0 1 0;
+#X connect 50 0 51 0;
+#X connect 50 0 52 0 32.................H....zE....B....cA...fA....;
+#X connect 51 0 56 0 32.................W.........vE.........zB....;
+#X connect 51 1 57 0 32.................O....bD...vC....GA...zB....;
+#X connect 51 2 53 0 32.................R....LH...fD....CB...zB....;
+#X connect 58 0 50 0;
